@@ -5,4 +5,4 @@ AdaIN works by aligning the mean and variance of the content image’s features 
 
 The model was trained on Kaggle using content and style datasets, and the training process is demonstrated in my Kaggle notebook:
 
-[Link to Kaggle notebook]
+[https://www.kaggle.com/code/healingsoal25/adain-style-transfer#Prepare-Dataset-and-DataLoader]
